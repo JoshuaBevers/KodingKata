@@ -1,4 +1,4 @@
-import * as Math from "../util/math";
+import * as Math from "../util/Calc";
 import { Vector2 } from "../util/Vector";
 import { Dijkstra } from "../dijkstra";
 
