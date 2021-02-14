@@ -1,5 +1,5 @@
 import { Vector2 } from "./util/Vector";
-import * as Math from "./util/math";
+import * as Math from "./util/Calc";
 import { getRing4 } from "./util/ring";
 
 interface dijkstraConfig {
